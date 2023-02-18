@@ -1,0 +1,11 @@
+## Instructions
+- Slice an object in PrusaSlicer (tested for v2.5.0)
+- Use 'python path_follower.py {gcode_file.gcode}' to create 'pathout.csv'
+- Open 'Ender 3_follow_path.blend'
+- In the scripting tab, run the 'mesh-working' script
+- Place the stl object in the printer
+- Apply the '3dp' material to the object
+- Set up boolean difference modifier with Object 'print_bool'
+- Run to verify that everything works
+- Reach out to me if you have any questions
+- Do credit me if you plan to improve upon this
