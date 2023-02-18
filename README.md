@@ -8,4 +8,11 @@
 - Set up boolean difference modifier with Object 'print_bool'
 - Run to verify that everything works
 - Reach out to me if you have any questions
-- Do credit me if you plan to improve upon this
+- Do credit if you plan to improve upon this
+
+## Sample
+
+https://user-images.githubusercontent.com/14368465/219824015-7bb71b1a-3df8-4cc7-83f9-0bd82c115646.mp4
+
+## Credits
+- Ender 3 model from https://github.com/Creality3DPrinting/Ender-3/tree/master/Ender-3%20Mechanical/STP
